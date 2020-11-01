@@ -25,5 +25,9 @@
     "vue-template-compiler": "^2.6.12",
     "webpack": "^5.3.2",
     "webpack-cli": "^4.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Itherma/vue-better-drawer.git"
   }
 }
