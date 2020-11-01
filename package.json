@@ -1,0 +1,29 @@
+{
+  "name": "vue-better-drawer",
+  "version": "1.0.6",
+  "description": "drawer component of vue",
+  "private": false,
+  "main": "dist/vue-better-drawer.js",
+  "scripts": {
+    "build": "webpack --config ./webpack.config.js"
+  },
+  "keywords": [
+    "drawer",
+    "vue"
+  ],
+  "author": "xujian",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.12.3",
+    "babel-loader": "^8.1.0",
+    "css-loader": "^5.0.0",
+    "sass": "^1.28.0",
+    "sass-loader": "^10.0.4",
+    "style-loader": "^2.0.0",
+    "vue": "^2.6.12",
+    "vue-loader": "^15.9.4",
+    "vue-template-compiler": "^2.6.12",
+    "webpack": "^5.3.2",
+    "webpack-cli": "^4.1.0"
+  }
+}
